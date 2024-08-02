@@ -168,7 +168,6 @@ a {
     align-items: flex-start;
     justify-content: flex-start;
     flex-direction: column;
-    gap: 8px;
     flex-basis: calc((100% - 72px) / 3);
 }
 .feature-list {
