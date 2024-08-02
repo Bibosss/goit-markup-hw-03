@@ -157,9 +157,6 @@ a {
 .text-container {
     width: 1158px;
 }
-.feature {
-    margin-bottom: 8px;
-}
 .item-list {
     display: flex;
     align-items: flex-start;
