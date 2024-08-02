@@ -220,13 +220,20 @@ a {
     border-radius: 0 0 4px 4px;
 }
 .team-autor {
-    padding-top: 32px;
-    padding-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.div-team {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 .team-text {
     font-weight: 400;
@@ -234,7 +241,6 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-bottom: 32px;
 }
 .portfolio {
     padding-top: 120px;
